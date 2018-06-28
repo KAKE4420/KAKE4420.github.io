@@ -9,6 +9,7 @@ tags: 博客
 ### PSP 2.1 统计表
 > PSP2.1表
 ![](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/PSP.png)
+
 ### GIT统计
 > GIT统计
 ![1](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT1.png)
@@ -23,10 +24,12 @@ tags: 博客
 ![10](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT10.png)
 ![11](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT11.png)
 ![12](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT12.png)
+
 ### 工作清单
 >- 编写和管理**项目管理文件**
 >- 书写**需求规格说明书**
 >- UI原型设计
 >- 管理项目进程
+
 ### 技术博客
 > [个人的项目管理经验博客](https://kake4420.github.io/%E9%A1%B9%E7%9B%AE%E5%B7%A5%E4%BD%9C%E7%BB%8F%E9%AA%8C%E6%80%BB%E7%BB%93/)
