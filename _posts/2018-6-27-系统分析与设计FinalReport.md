@@ -29,7 +29,10 @@ tags: 博客
 
 ### 工作清单
 >- 贡献度：30%
+
+![](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/3.png)
 >- 编写和管理**项目管理文件**
+>- 维护Dashboard仓库
 >- 书写**需求规格说明书**
 >- UI原型设计
 >- 管理项目进程
