@@ -8,10 +8,12 @@ tags: 博客
 ## 系统分析与设计Final Report
 ### PSP 2.1 统计表
 > PSP2.1表
+
 ![](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/PSP.png)
 
 ### GIT统计
 > GIT统计
+
 ![1](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT1.png)
 ![2](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT2.png)
 ![3](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT3.png)
@@ -26,6 +28,7 @@ tags: 博客
 ![12](https://raw.githubusercontent.com/KAKE4420/KAKE4420.github.io/master/_img/lesson16/GIT12.png)
 
 ### 工作清单
+>- 贡献度：30%
 >- 编写和管理**项目管理文件**
 >- 书写**需求规格说明书**
 >- UI原型设计
